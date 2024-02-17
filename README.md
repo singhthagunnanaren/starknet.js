@@ -36,7 +36,7 @@
 
 ## 🕹️ Usage
 
-Install starknet with `npm`
+Install starknet with `npm` and then
 
 ```bash
 # latest official release (main branch)
